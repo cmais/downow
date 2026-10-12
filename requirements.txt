@@ -1,0 +1,5 @@
+PySide6>=6.7,<7
+imageio-ffmpeg>=0.5
+certifi
+# Para rodar direto do código-fonte (python downow.py), sem gerar o executável:
+#   pip install "yt-dlp[default]"   e instale o Deno (https://deno.com)

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#62a0ea"/>
+      <stop offset="1" stop-color="#1c71d8"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="240" height="240" rx="56" fill="url(#bg)"/>
+  <!-- arco do fone -->
+  <path d="M62 142 V122 A66 66 0 0 1 194 122 V142" fill="none" stroke="#ffffff" stroke-width="15" stroke-linecap="round"/>
+  <!-- conchas -->
+  <rect x="46" y="130" width="36" height="76" rx="15" fill="#ffffff"/>
+  <rect x="174" y="130" width="36" height="76" rx="15" fill="#ffffff"/>
+  <!-- seta para baixo -->
+  <path d="M128 94 V166" fill="none" stroke="#ffffff" stroke-width="15" stroke-linecap="round"/>
+  <path d="M102 142 L128 168 L154 142" fill="none" stroke="#ffffff" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

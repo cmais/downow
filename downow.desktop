@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=downow
+Comment=Baixe o áudio de um vídeo do YouTube em MP3
+Exec=downow
+Icon=downow
+Terminal=false
+Categories=AudioVideo;Audio;Network;
+StartupWMClass=downow
